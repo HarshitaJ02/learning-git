@@ -53,6 +53,22 @@ And that’s how Git was born, out of a real problem, with a very smart solution
 
 ##  First Git Commands We Usually Practice
 
+```bash
+"""Before we move on, here are few commands I needed on the first day of making this repository and I learned on the way"""
+
+pwd : present working directory
+cd Foldername
+mkdir folderabc
+cd folderabc
+git clone " *this is the link of the repo* "
+git status
+code .
+git status
+git add .
+git commit -m "initial_commit"
+git push
+```
+
 ### 1️. Basic Commands You Must Know
 
 These are **terminal commands** (not Git commands yet) that help you move around and manage files on your computer:
